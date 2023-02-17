@@ -24,7 +24,7 @@ That's it! Once the workflow is installed, you can use it by typing in the Searc
 
 ## Credits
 
-This workflow is inspired by the [Google Suggest](https://alfred.app/workflows/alfredapp/google-suggest/) by Vítor Galvão. 
+This workflow is inspired by the [Google Suggest](https://alfred.app/workflows/alfredapp/google-suggest/) workflow created by Vítor Galvão.
 
 "This workflow was adapted with the help of ChatGPT, a large language model trained by OpenAI. ChatGPT provided guidance and support during the development process."
 
