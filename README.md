@@ -1,4 +1,6 @@
-# <img src="icon.png" alt="you.com logo" width="26" height="26"/> You.com Suggest
+<img src="icon.png" alt="you.com logo" width="96" height="96"/> 
+
+# You.com Suggest
 
 Get in-line suggestions from [You.com](https://you.com)'s search results via the Search Keyword (default: `y`). Press <kbd>↩</kbd> to open the search results page with the default web browser.
 
