@@ -1,5 +1,4 @@
-![you-suggest-icon](icon.png)
-# You.com Suggest
+# <img src="icon.png" alt="you.com logo" width="26" height="26"/> You.com Suggest
 
 Get in-line suggestions from [You.com](https://you.com)'s search results via the Search Keyword (default: `y`). Press <kbd>↩</kbd> to open the search results page with the default web browser.
 
@@ -13,11 +12,11 @@ Get in-line suggestions from [You.com](https://you.com)'s search results via the
 4. Double-click on the unzipped `You-Suggest.alfredworkflow` file to install it in Alfred.
 5. Alfred will prompt you to add the workflow to your collection. Follow the prompts to add it.
 
-That's it! Once the workflow is installed, you can use it by typing in the Search Keyword (default: `y`) followed by a query in Alfred. 
+That's it! Once the workflow is installed, you can use it by typing in the Search Keyword (default: `y`) followed by a query in Alfred.
 
 ## Updating the Search Keyword
 
-1. Go to **Alfred Preferences**. 
+1. Go to **Alfred Preferences**.
 2. Open the **Workflows** tab.
 3. Select **You.com Suggest**.
 4. Click **Configure Workflow...** to set the Search Keyword.
