@@ -1,4 +1,4 @@
-<img src="icon.png" alt="you.com logo" width="96" height="96"/> 
+<img src="icon.png" alt="you.com logo" width="96" height="96"/>
 
 # You.com Suggest
 
@@ -9,10 +9,9 @@ Get in-line suggestions from [You.com](https://you.com)'s search results via the
 ## Installation
 
 1. Go to the [**Releases**](https://github.com/zarifpour/alfred-you-suggest/releases) page for this workflow.
-2. Download the latest version of the workflow by clicking on the You-Suggest.zip file.
-3. Unzip the downloaded file.
-4. Double-click on the unzipped `You-Suggest.alfredworkflow` file to install it in Alfred.
-5. Alfred will prompt you to add the workflow to your collection. Follow the prompts to add it.
+2. Download the latest version of the workflow by clicking on the `You.com.Suggest.alfredworkflow`.
+3. Double-click the file to install it in Alfred.
+4. Alfred will prompt you to add the workflow to your collection.
 
 That's it! Once the workflow is installed, you can use it by typing in the Search Keyword (default: `y`) followed by a query in Alfred.
 
